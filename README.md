@@ -181,5 +181,3 @@ task-manager-api/
 3. **Phase 3: Core CRUD:** Implement Task model and CRUD routes.
 4. **Phase 4: Middleware:** Secure the Task routes with JWT verification.
 5. **Phase 5: Refinement:** Add input validation and error handling.
-
-### Would you like me to generate the code for the `authMiddleware.js` or the Database Schema setup (SQL/Mongoose) to get you started?
